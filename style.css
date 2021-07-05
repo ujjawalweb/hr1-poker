@@ -1091,6 +1091,11 @@ color: #25D366 !important;
     top: 3px;
   color: #25D366 !important;
 }
+	
+	.phns{position: relative ;
+    left: -70px!important ;
+    top: -4px!important ;
+}
 }
 
 
